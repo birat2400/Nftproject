@@ -21,7 +21,7 @@ body
 
  #first
  {
-    background-image: url(/images/image-equilibrium.jpg);
+    background-image: url('../images/image-equilibrium.jpg');
     width: 216px;
     height: 212px;
     background-size: cover;
